@@ -1,0 +1,12 @@
+selector{
+    transition-property: value;
+
+ body {
+     background-image: url(mylife.jpg); 
+ }    
+}
+h1{
+	color: red;
+	text-align: center;
+	border: 5px solid black;
+}
